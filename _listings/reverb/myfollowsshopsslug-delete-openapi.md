@@ -3,7 +3,7 @@ swagger: "2.0"
 x-collection-name: Reverb
 x-complete: 0
 info:
-  title: reverb Delete My Follows Shops Slug
+  title: Reverb Delete My Follows Shops Slug
   description: Delete my follows shops slug.
   termsOfService: https://reverb.com/page/terms
   contact:

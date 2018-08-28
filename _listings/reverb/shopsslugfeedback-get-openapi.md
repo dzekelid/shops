@@ -3,7 +3,7 @@ swagger: "2.0"
 x-collection-name: Reverb
 x-complete: 0
 info:
-  title: reverb Get Shops Slug Feedback
+  title: Reverb Get Shops Slug Feedback
   description: Get shops slug feedback.
   termsOfService: https://reverb.com/page/terms
   contact:
